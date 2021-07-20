@@ -12,7 +12,7 @@ Sandbox offers:
 * **Load Generator** - a component that produces synthetic traffic on a demo service.
 * (Soon) **SRE Runbook** - pre-built routine procedures for operating the deployed sample service that follow best SRE practices using Cloud Operations.
 
-## Why Sandbox
+## Why Sandbox?
 
 Google Cloud Operations Suite is a suite of tools that helps you gain full observability of your code and applications.
 You might want to take Cloud Operations to a "test drive" in order to answer the question, "will it work for my application needs"?
@@ -40,7 +40,7 @@ With Sandbox, we provide a tool that automatically provisions a new demo cluster
 
 Click the Cloud Shell button for automated one-click installation of a new Sandbox cluster in a new Google Cloud Project.
 
-[![Open in Cloud Shell](http://www.gstatic.com/cloudssh/images/open-btn.svg)](https://console.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/GoogleCloudPlatform/cloud-ops-sandbox.git&cloudshell_git_branch=v0.7.1&shellonly=true&cloudshell_image=gcr.io/stackdriver-sandbox-230822/cloudshell-image/uncertified:v0.7.1&cloudshell_tutorial=docs/tutorial.md)
+[![Open in Cloud Shell](http://www.gstatic.com/cloudssh/images/open-btn.svg)](https://console.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/GoogleCloudPlatform/cloud-ops-sandbox.git&cloudshell_git_branch=v0.7.2&shellonly=true&cloudshell_image=gcr.io/stackdriver-sandbox-230822/cloudshell-image/uncertified:v0.7.2&cloudshell_tutorial=docs/tutorial.md)
 
 __Note__: If installation stops due to billing account errors, set up the billing account and type: `sandboxctl create`.
 
