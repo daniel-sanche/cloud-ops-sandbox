@@ -12,7 +12,7 @@ Sandbox offers:
 * **Load Generator** - a component that produces synthetic traffic on a demo service.
 * (Soon) **SRE Runbook** - pre-built routine procedures for operating the deployed sample service that follow best SRE practices using Cloud Operations.
 
-## Why Sandbox
+## Why Sandbox?
 
 Google Cloud Operations Suite is a suite of tools that helps you gain full observability of your code and applications.
 You might want to take Cloud Operations to a "test drive" in order to answer the question, "will it work for my application needs"?
